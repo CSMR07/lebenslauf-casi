@@ -1,0 +1,33 @@
+.h3{
+    padding-left: 10px;
+    vertical-align: top;
+    font-weight: bold;
+    font-size: 18px
+}
+
+tr, th, td, table {
+    border: solid 1px black;
+}
+
+h1{
+    text-align: center;
+}
+
+td{
+   left: 0px;
+   padding-left: 10px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}
+
+body{
+    font-family: Calibri;
+}
+
